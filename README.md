@@ -1,1 +1,1 @@
-# sp-autogen
+# Scratchpad - AutoGen
